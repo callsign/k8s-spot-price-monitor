@@ -2,3 +2,4 @@ kubernetes
 boto3
 prometheus_client
 botocore
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
